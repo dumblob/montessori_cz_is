@@ -1,0 +1,22 @@
+lassroom Developer and Partner Interest
+*Povinné pole
+
+Name *
+<my full name>
+
+Email address *
+<my volny email>
+
+Company/Product Name *
+Information System for Montessori in Czech Republic
+
+Website *
+https://github.com/dumblob/montessori_cz_is
+
+How are you interested in working with us? *
+
+I'd like to build the IS as modeled in the referenced repository. I'll be operated by a union of czech Montessori schools. The IS should be as simple and small as possible utilizing high-degree of integration with Google Docs, G+ (including photos, articles with discussions/comments...), Google Disk and account management (including permission handling - e.g. some comments should be visible to others and some not). Also I'd like to have a possibility to dump all the database data and download them to make local backups (e.g. as a proof for our Ministry of education youth and sports; or just to manipulate the data offline).
+
+From what I've found on Google pages like Cloud, developers (APIs...), Services etc., I got an impression, the described system has to be written from scratch and Google can offer only discounted/free cloud storage and maybe some virtual system to run the IS.
+
+Recently I got an email from Janek Wagner from GUG that there is some "classroom" platform being tested and gave mi an invitation. I'm curious if this platform could suit my needs to a certain degree and I can extend it for new attributes, modules, outputs to match the referenced model.
